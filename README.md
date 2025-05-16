@@ -39,6 +39,6 @@ Install dependencies using:
 
 ```bash
 pip install streamlit requests PyPDF2 pandas scikit-learn
-
+```
 ## Running the Application
- - streamlit run app.py
+- streamlit run app.py
